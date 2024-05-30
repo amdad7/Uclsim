@@ -14,7 +14,4 @@ public class club {
         this.league = league;
         this.pot = pot;
     }
-    public void test() {
-        System.out.println("hi");
-    }
 }

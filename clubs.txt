@@ -1,0 +1,32 @@
+Real Madrid,1,spain,2
+Manchester City,1,england,1
+Bayer Munich,1,germany,1
+Arsenal,2,england,2
+Inter,2,italy,2
+Dortmund,2,germany,2
+PSG,2,france,1
+Athletico Madrid,2,spain,2
+Barcelona,3,spain,1
+AC Milan,3,italy,3
+Napoli,3,italy,1
+Manchester United,3,england,2
+Real Sociedad,3,spain,4
+Newcastle,3,england,4
+RB Leipzig,3,germany,2
+Porto,4,portugal,2
+PSV,4,dutch,3
+Lazio,4,italy,3
+Benfica,4,portugal,1
+Copenhagen,5,denmark,3
+Galatasaray,5,Turkey,4
+Lens,5,france,4
+Sevilla,5,spain,1
+Braga,5,portugal,3
+Union Berlin,5,germany,4
+RB Salzburg,5,austria,3
+Feyenoord,5,dutch,1
+Celtic,5,ireland,4
+Young Boys,5,swiss,4
+Crvena zvezda,5,serbia,3
+Shakhtar Donestsk,5,ukraine,3
+Antwerp,5,belgium,4
